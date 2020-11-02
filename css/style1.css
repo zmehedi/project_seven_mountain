@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.body{
+    font-family: 'Roboto Mono', monospace;
+}
+.back{
+    background-image: url(../img/assets/asset\ 8.jpeg);
+    height: 320px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:#3e59a3da ;
+    background-blend-mode: multiply;
+
+    
+}
+.navbar-brand img{
+    height: 33px;
+}
+.navbar{
+    padding-top:15px ;
+}
+nav ul{}
+nav ul li a{
+    text-transform: capitalize;
+    margin-left: 18px;
+    font-size: 14px;
+    color: #ffffff70;
+
+}
+nav ul li  .active{
+    color:#fff;
+}
+nav ul li a:hover{
+    color:#ffffffc4;
+}
+.dark{
+    background-color: #6F989D;
+    margin: 2px 10px;
+    padding: 9px 30px;
+    box-shadow: 0 0 0 #6F989D;
+    color: #ffffff;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 300;
+
+}
+.dark:hover{
+    color: #ffffff;
+    background-color: #1647b9;
+}
+.about{
+    margin-top: 110px;
+    font-size: 58px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+
+/*ABOUT SECTION STARTS*/
+.content{
+    padding-top: 60px;
+    height: 450px;
+    max-width: 100%;
+}
+.content h4{
+
+    
+    font-weight: 400;
+    letter-spacing: 3px;
+
+}
+.content h6{
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.content p{
+    font-size: 13px;
+    color: #0000009c;
+    margin-top: 30px;
+}
+.content h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    color: black;
+}
+.threesection{
+    background-color: #F3F9FB;
+
+}
+.writes{
+    padding: 120px 0px;
+}
+.writes h3{
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.writes p{
+    font-size: 13px;
+    color: #0000009c;
+    margin-top: 30px;
+}
+/*ABOUT SECTION ENDS*/
+
+/*Services starts*/
+.locations{
+    margin: 120px 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.vox{
+    margin-top: 50px;
+}
+.vox .contact{
+    margin-top: 25px;
+    border:1px solid #3053adb4;
+    padding: 8px 35px;
+    color: #000000c7;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.contact:hover{
+    background-color:#3053adb4 ;
+}
+.vox h2{
+    letter-spacing: 2px;
+    color: #0000009c;
+    
+}
+.vox p{
+    font-size: 13px;
+    color: #0000009c;
+    margin-top: 30px;
+}
+.lenght{
+    margin-top: 80px;
+}
+.lenght1{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+/*services e n d s*/
+
+/*CONTACT STARTS*/
+
+.bigclass{
+    padding: 150px 0px;
+}
+.bigclass h1{
+    font-size: 65px;
+    text-align: center;
+    font-style: oblique;
+    display: inline-block;
+    margin: 0px 160px;
+}
+.bigclass span{
+}
+.bigclass span i{
+    font-size: 50px;
+    
+}
+span i:hover{
+    animation: reverse;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*footer part*/
+.footer{
+    padding-bottom: 20px;
+    background-color: #F4F8F9;
+}
+.ico{
+    
+    font-size: 16px;
+    color: #1647b9;
+    border-radius: 30px;
+    background-color: #fff;
+}
+.box{
+    text-align: left;
+}
+.box img{
+    height: 35px;
+    margin-bottom: 20px;
+    margin: 15px;
+}
+.box h6{
+    font-size: 13px;
+    font-weight: 400;
+    margin: 25px 0;
+
+}
+.lastpart{
+    margin-top: 40px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.lastpart i{
+    color: red;
+}
+.lastpart i:hover{
+    font-size: 20px;
+    color: rgba(197, 7, 118, 0.863);
+}
